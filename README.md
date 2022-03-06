@@ -1,1 +1,1 @@
-# CurrencyDetection
+# Currency detection using python and Tkinter
